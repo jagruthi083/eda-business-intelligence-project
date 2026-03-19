@@ -1,1 +1,22 @@
 
+---------------------------------------------------------
+|        Amazon Sales Performance Dashboard              |
+---------------------------------------------------------
+
+| Total Orders | Total Sales | Total Quantity |
+---------------------------------------------------------
+
+|             Sales Trend (Line Chart)                  |
+|        (Date vs Sum of Amount)                        |
+---------------------------------------------------------
+
+| Sales by Category | Quantity by Category              |
+| (Bar Chart)       | (Column Chart)                    |
+---------------------------------------------------------
+
+| Orders by State (Bar Chart)                           |
+---------------------------------------------------------
+
+| Order Status | Courier Status                         |
+| (Donut Chart)| (Pie Chart)                            |
+---------------------------------------------------------
